@@ -3,7 +3,7 @@
 
 Mr. PacMan is lost pacing the screen in search of Mrs. PacMan 
 Mr. PacMan will pace the screen back and forth, opening and closing his mouth.
-
+The background image will display a Mr. & Mrs. PacMan dazed in love. 
 
 ## Installation
 
