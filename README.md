@@ -22,3 +22,7 @@ In order to view this animation, you will need to download all 4 pacman images a
 
 ## Project Details
 This was a project given to students during Week 4 in the Coding Program at MIT XPro for students to better understand how to manipulate images and how to control the Document Object Model or DOM. 
+
+## Roadmap
+
+In the future, an addition will be made to have a Mrs. PacMan who paces the entirety of the screen and Mr. PacMan will follow her. 
